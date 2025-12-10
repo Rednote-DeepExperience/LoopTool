@@ -20,6 +20,7 @@
 </div>
 
 ## 📣 Latest News
+- **[December 10, 2025]**: 📦 LoopTool-2w dataset is available on **[Hugging Face](https://huggingface.co/datasets/zhuiguang-ning/LoopTool-2w)**. The [LoopTool-32B](https://huggingface.co/zhuiguang-ning/LoopTool-32B) is also available.
 - **[November 14, 2025]**: 🔥 LoopTool-8B is available on **[Hugging Face](https://huggingface.co/zhuiguang-ning/LoopTool-8B)**. LoopTool-32B, along with associated datasets, is scheduled to be released soon.
 - **[November 13, 2025]**: 📄 Our paper is now available on **[arXiv](https://arxiv.org/abs/2511.09148v1)** and **[Hugging Face](https://huggingface.co/papers/2511.09148)**.
 - **[November 13, 2025]**: 🚀 Our codebase released. You can use LoopTool to construct **specific dialogues for your own toolset**, andn finetune language model optimized for particular tools using RL algorithms. You can further refine performance by iteratively updating the training data and the model training process.
